@@ -1,0 +1,2 @@
+This is a Zend Framework Zend_Queue _Adapter for amqp. 
+It uses the php-amqplib library that can be found here: http://code.google.com/p/php-amqplib/
